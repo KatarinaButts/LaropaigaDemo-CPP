@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Chest name="chest1">
+    <posx>5</posx>
+    <posy>7</posy>
+    <type>0</type>
+    <drop>1</drop>
+    <drop_amount>1</drop_amount>
+  </Chest>  
+  <Chest name="chest2">
+    <posx>2</posx>
+    <posy>5</posy>
+    <type>0</type>
+    <drop>2</drop>
+    <drop_amount>1</drop_amount>
+  </Chest>
+</Objects>
+
+
+
+  
+<!--
+<chest>
+  <drop>1</drop>
+  <drop_amount>1</drop_amount>
+</chest>
+-->
+<!--make root node objects, then add chest objects, flower objects, etc-->

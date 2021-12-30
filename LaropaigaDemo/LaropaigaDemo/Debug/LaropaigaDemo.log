@@ -1,0 +1,40 @@
+﻿  App.cpp
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\deps\include\cegui\exceptions.h(41): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'CEGUI::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: see declaration of 'std::exception'
+  c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\deps\include\cegui\exceptions.h(40): note: see declaration of 'CEGUI::Exception'
+  GamePlayScreen.cpp
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\deps\include\cegui\exceptions.h(41): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'CEGUI::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: see declaration of 'std::exception'
+  c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\deps\include\cegui\exceptions.h(40): note: see declaration of 'CEGUI::Exception'
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\laropaigademo\gameplayscreen.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\laropaigademo\gameplayscreen.cpp(100): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\laropaigademo\gameplayscreen.cpp(142): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\laropaigademo\gameplayscreen.cpp(266): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\laropaigademo\gameplayscreen.cpp(357): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\laropaigademo\player.cpp(18): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\laropaigademo\player.cpp(19): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\laropaigademo\player.cpp(381): warning C4018: '<': signed/unsigned mismatch
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\laropaigademo\player.cpp(408): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\laropaigademo\player.cpp(418): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\laropaigademo\player.cpp(418): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\laropaigademo\player.cpp(419): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\laropaigademo\player.cpp(419): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+  main.cpp
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\deps\include\cegui\exceptions.h(41): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'CEGUI::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: see declaration of 'std::exception'
+  c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\deps\include\cegui\exceptions.h(40): note: see declaration of 'CEGUI::Exception'
+  Generating Code...
+  LaropaigaDemo.vcxproj -> C:\Users\katar\OneDrive\Documents\Visual Studio 2017\Projects\LaropaigaDemo\Debug\LaropaigaDemo.exe

@@ -1,0 +1,56 @@
+﻿  AudioEngine.cpp
+  Bengine2.cpp
+  Camera2D.cpp
+  BengineErrors.cpp
+  DebugRenderer.cpp
+  GLSLProgram.cpp
+  GUI.cpp
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\deps\include\cegui\exceptions.h(41): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'CEGUI::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: see declaration of 'std::exception'
+  c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\deps\include\cegui\exceptions.h(40): note: see declaration of 'CEGUI::Exception'
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\bengine2\gui.cpp(222): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+  ImageLoader.cpp
+  InputManager.cpp
+  IOManager.cpp
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\bengine2\iomanager.cpp(25): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\bengine2\iomanager.cpp(32): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\bengine2\iomanager.cpp(64): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+  IMainGame.cpp
+  ParticleBatch2D.cpp
+  ParticleEngine2D.cpp
+  picoPNG.cpp
+  ResourceManager.cpp
+  ScreenList.cpp
+  Sprite.cpp
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\bengine2\sprite.cpp(23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\bengine2\sprite.cpp(24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\bengine2\sprite.cpp(25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\bengine2\sprite.cpp(26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SpriteBatch.cpp
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\bengine2\spritebatch.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\bengine2\spritebatch.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\bengine2\spritebatch.cpp(178): warning C4018: '<': signed/unsigned mismatch
+  SpriteFont.cpp
+  TextureCache.cpp
+  Generating Code...
+  Compiling...
+  Timing.cpp
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\bengine2\timing.cpp(27): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\bengine2\timing.cpp(31): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\bengine2\timing.cpp(42): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\katar\onedrive\documents\visual studio 2017\projects\laropaigademo\bengine2\timing.cpp(45): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  Window.cpp
+  Generating Code...
+SDL2_ttf.lib(SDL2_ttf.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+SDL2_ttf.lib(SDL2_ttf.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+SDL2_mixer.lib(SDL2_mixer.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+SDL2_mixer.lib(SDL2_mixer.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+opengl32.lib(OPENGL32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+glew32.lib(glew32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+CEGUIBase-0_d.lib(CEGUIBase-0_d.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+CEGUIBase-0_d.lib(CEGUIBase-0_d.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+CEGUIOpenGLRenderer-0_d.lib(CEGUIOpenGLRenderer-0_d.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+CEGUIOpenGLRenderer-0_d.lib(CEGUIOpenGLRenderer-0_d.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  Bengine2.vcxproj -> C:\Users\katar\OneDrive\Documents\Visual Studio 2017\Projects\LaropaigaDemo\Debug\Bengine2.lib
